@@ -4,6 +4,8 @@ A statistical measure that attempts to determine the strengths of the relationsh
 
 Regression models (both linear and non-linear) are used for predicting a real value, like Salary for example. If your independent variable is time, then we are going to forecasting the future values.
 
+The regression technique tells us what is the impact and what is the quantification of the impact when we have cause and effect relationship
+
 There are numerous Regression techniques and here we will understand and learn how to implement the following Machine Learning Techniques in much simple and efficient way.
 
 - Simple Linear Regression
