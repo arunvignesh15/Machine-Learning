@@ -1,0 +1,56 @@
+Reference Videos
+1) Understanding Covariance
+
+https://www.youtube.com/watch?v=xGbpuFNR1ME
+
+2) Covariance Matrix
+
+https://www.youtube.com/watch?v=locZabK4Als
+
+3) Understanding Correlation
+
+https://www.youtube.com/watch?v=4EXNedimDMs
+
+4) Linear Regression:The Vary Basics
+
+https://www.youtube.com/watch?v=ZkjP5RJLQF4
+
+5) Linear Regression:Algebra,Equations and Patterns
+
+https://www.youtube.com/watch?v=iAgYLRy7e20
+
+6) Linear Regression: Least Squares Method
+
+https://www.youtube.com/watch?v=Qa2APhWjQPc
+
+7) Linear Regression:Fit and the Coefficient of Determination
+
+https://www.youtube.com/watch?v=kHZBy1uVNnM
+
+8) Multilinear Regression:The Vary Basics
+
+https://www.youtube.com/watch?v=dQNpSa-bq4M
+
+9) Multilinear Regression:Preparation
+
+https://www.youtube.com/watch?v=2I_AYIECCOQ
+
+10) Multilinear Regression:Evaluating Basic Models(A)
+
+https://www.youtube.com/watch?v=wPJ1_Z8b0wk
+
+11) Multilinear Regression:Evaluating Basic Models(B)
+
+https://www.youtube.com/watch?v=px72eCYPuvc
+
+12) Multilinear Regression: Dummy Variables
+
+https://www.youtube.com/watch?v=fTfMdCQJz4s
+
+13) Multilinear Regression: Two categorical Variables (A)
+
+https://www.youtube.com/watch?v=YwsYKNWSw2o
+
+14) Multilinear Regression: Two categorical Variables (B)
+
+https://www.youtube.com/watch?v=SdHmOD-w_2s
