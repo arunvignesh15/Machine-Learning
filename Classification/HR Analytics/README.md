@@ -1,4 +1,4 @@
-### How HR can help to prevent loss of good people to organization
+## How HR can help to prevent loss of good people to organization
 
 The key to success in any organization is attracting and retaining top talent.
 
@@ -9,11 +9,11 @@ Acquiring new employees as a replacement has its costs such as hiring costs and 
 You are an HR analyst at a company, and one of the tasks is to determine which factors keep employees at the company and which prompt others to leave.
 You need to know what factors can change to prevent the loss of good people.
 
-### What data we have?
+## What data we have?
 
 Data has various data points on our employees, but you are most interested in whether they’re still with my company or whether they’ve gone to work somewhere else.
 
-### Data Information
+## Data Information
 
 - Education: 1 'Below College’, 2 'College’, 3 'Bachelors', 4 'Master’, 5 'Doctors'
 - Environment Satisfaction: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'
